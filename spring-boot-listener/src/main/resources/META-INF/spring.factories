@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.panshi.mybatis.listener.HelloApplicationContextInitializer
+
+org.springframework.boot.SpringApplicationRunListener=\
+com.panshi.mybatis.listener.HelloSpringApplicationRunListener

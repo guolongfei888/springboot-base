@@ -1,0 +1,34 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active: prod
+
+---
+server:
+  port: 8082
+spring:
+  profiles: dev
+
+
+---
+
+server:
+  port: 8083
+spring:
+  profiles: prod  #指定属于哪个环境
+
+#person:
+#  id: 1
+#  lastName: 张三
+#  age: 18
+#  boss: true
+#  birth: 2015/03/11
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - 李四
+#    - 王五
+#  dog:
+#    name: 小狗
+#    age: 2
+#    color: 黑色

@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch02/spring-boot-elasticsearch02.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch02/spring-boot-elasticsearch02.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" filepath="$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-demo/spring-boot-starter-test/spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/spring-boot-starter-demo/spring-boot-starter-test/spring-boot-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-base.iml" filepath="$PROJECT_DIR$/.idea/springboot-base.iml" />
     </modules>

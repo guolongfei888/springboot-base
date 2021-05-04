@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch02/pom.xml" />
       </list>
     </option>
   </component>

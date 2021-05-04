@@ -4,7 +4,10 @@
     <file url="file://$PROJECT_DIR$/spring-boot-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-elasticsearch02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-logging/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-starter-demo/auto-spring-boot-starter-autoconfigurer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-starter-demo/spring-boot-starter-test/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
